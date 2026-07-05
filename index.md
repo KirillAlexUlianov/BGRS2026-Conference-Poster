@@ -9,7 +9,6 @@ K. Ulianov [1], M. Molodova [1], D. Zagirova [1,2], K. Morozov [1], P. Morozova 
 5) Institute of Gene Biology, Russian Academy of Sciences, Moscow, Russia  
 ## Conference Poster
 ### PDF version
-[Download poster](poster.pdf)
 ## Figure descriptions
 ### List of abbreviations
 **HC** - Healthy Control (Neurotypical donors)  
